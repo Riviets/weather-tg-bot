@@ -4,7 +4,7 @@ import fs from 'fs';
 
 const url = 'https://meteo.ua/';
 
-async function fetchHTML(url) {
+export async function fetchHTML(url) {
     try {
         const { data } = await axios.get(url);
         return data;
@@ -32,3 +32,4 @@ export function fillFile(file) {
         fs.writeFile(file, JSON.stringify(weather, null, 2), () => {});
     });
 }
+

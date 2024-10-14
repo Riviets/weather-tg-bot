@@ -2,44 +2,44 @@
   {
     "city": "Вінниця",
     "tempDegree": "+7 °..+12 °",
-    "tempLabel": "сильна хмарність",
-    "tempPercentage": "72 %"
+    "tempLabel": "похмура погода",
+    "tempPercentage": "63 %"
   },
   {
     "city": "Дніпро",
     "tempDegree": "+10 °..+17 °",
     "tempLabel": "похмура погода",
-    "tempPercentage": "81 %"
+    "tempPercentage": "64 %"
   },
   {
     "city": "Донецьк",
     "tempDegree": "+9 °..+14 °",
-    "tempLabel": "похмура погода",
-    "tempPercentage": "90 %"
+    "tempLabel": "помірний дощ",
+    "tempPercentage": "68 %"
   },
   {
     "city": "Житомир",
     "tempDegree": "+5 °..+10 °",
-    "tempLabel": "помірна хмарність",
-    "tempPercentage": "84 %"
+    "tempLabel": "похмура погода",
+    "tempPercentage": "75 %"
   },
   {
     "city": "Запоріжжя",
     "tempDegree": "+12 °..+18 °",
     "tempLabel": "похмура погода",
-    "tempPercentage": "80 %"
+    "tempPercentage": "63 %"
   },
   {
     "city": "Івано-Франківськ",
     "tempDegree": "+6 °..+13 °",
-    "tempLabel": "помірна хмарність",
-    "tempPercentage": "69 %"
+    "tempLabel": "легка хмарність",
+    "tempPercentage": "55 %"
   },
   {
     "city": "Кропивницкий",
     "tempDegree": "+9 °..+15 °",
-    "tempLabel": "невеликий дощ",
-    "tempPercentage": "69 %"
+    "tempLabel": "помірна хмарність",
+    "tempPercentage": "61 %"
   },
   {
     "city": "Луцьк",
@@ -50,97 +50,97 @@
   {
     "city": "Львів",
     "tempDegree": "+6 °..+12 °",
-    "tempLabel": "сильна хмарність",
-    "tempPercentage": "79 %"
+    "tempLabel": "похмура погода",
+    "tempPercentage": "62 %"
   },
   {
     "city": "Миколаїв",
     "tempDegree": "+11 °..+17 °",
-    "tempLabel": "невеликий дощ",
-    "tempPercentage": "58 %"
+    "tempLabel": "сильна хмарність",
+    "tempPercentage": "47 %"
   },
   {
     "city": "Одеса",
     "tempDegree": "+13 °..+17 °",
-    "tempLabel": "похмура погода",
-    "tempPercentage": "73 %"
+    "tempLabel": "сильна хмарність",
+    "tempPercentage": "45 %"
   },
   {
     "city": "Полтава",
     "tempDegree": "+8 °..+15 °",
-    "tempLabel": "похмура погода",
-    "tempPercentage": "83 %"
+    "tempLabel": "помірна хмарність",
+    "tempPercentage": "72 %"
   },
   {
     "city": "Рівне",
     "tempDegree": "+6 °..+11 °",
-    "tempLabel": "помірна хмарність",
-    "tempPercentage": "84 %"
+    "tempLabel": "похмура погода",
+    "tempPercentage": "71 %"
   },
   {
     "city": "Сімферополь",
     "tempDegree": "+12 °..+19 °",
     "tempLabel": "похмура погода",
-    "tempPercentage": "70 %"
+    "tempPercentage": "79 %"
   },
   {
     "city": "Суми",
     "tempDegree": "+5 °..+11 °",
-    "tempLabel": "похмура погода",
-    "tempPercentage": "88 %"
+    "tempLabel": "сильна хмарність",
+    "tempPercentage": "81 %"
   },
   {
     "city": "Тернопіль",
     "tempDegree": "+6 °..+11 °",
-    "tempLabel": "ясне небо",
-    "tempPercentage": "85 %"
+    "tempLabel": "похмура погода",
+    "tempPercentage": "57 %"
   },
   {
     "city": "Ужгород",
     "tempDegree": "+7 °..+13 °",
-    "tempLabel": "помірна хмарність",
-    "tempPercentage": "73 %"
+    "tempLabel": "похмура погода",
+    "tempPercentage": "66 %"
   },
   {
     "city": "Харків",
     "tempDegree": "+5 °..+11 °",
     "tempLabel": "похмура погода",
-    "tempPercentage": "87 %"
+    "tempPercentage": "79 %"
   },
   {
     "city": "Херсон",
     "tempDegree": "+11 °..+18 °",
-    "tempLabel": "похмура погода",
-    "tempPercentage": "63 %"
+    "tempLabel": "сильна хмарність",
+    "tempPercentage": "53 %"
   },
   {
     "city": "Хмельницький",
     "tempDegree": "+6 °..+11 °",
-    "tempLabel": "легка хмарність",
-    "tempPercentage": "83 %"
+    "tempLabel": "похмура погода",
+    "tempPercentage": "63 %"
   },
   {
     "city": "Черкаси",
     "tempDegree": "+9 °..+14 °",
     "tempLabel": "похмура погода",
-    "tempPercentage": "76 %"
+    "tempPercentage": "67 %"
   },
   {
     "city": "Чернігів",
     "tempDegree": "+7 °..+11 °",
     "tempLabel": "сильна хмарність",
-    "tempPercentage": "90 %"
+    "tempPercentage": "76 %"
   },
   {
     "city": "Чернівці",
     "tempDegree": "+7 °..+15 °",
-    "tempLabel": "похмура погода",
-    "tempPercentage": "81 %"
+    "tempLabel": "ясне небо",
+    "tempPercentage": "55 %"
   },
   {
     "city": "Луганськ",
     "tempDegree": "+5 °..+12 °",
-    "tempLabel": "невеликий дощ",
-    "tempPercentage": "81 %"
+    "tempLabel": "похмура погода",
+    "tempPercentage": "75 %"
   }
 ]
